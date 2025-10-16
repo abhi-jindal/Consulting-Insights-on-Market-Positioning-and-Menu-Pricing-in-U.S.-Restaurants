@@ -1,0 +1,2 @@
+# Consulting-Insights-on-Market-Positioning-and-Menu-Pricing-in-U.S.-Restaurants
+This project analyzes the Uber Eats USA Restaurants &amp; Menus dataset to uncover trends in cuisine preferences, menu pricing, and restaurant distribution across the United States. Our insights aim to inform data-driven decisions for restaurants and delivery platforms to optimize pricing strategies, menu offerings, and regional market entry plans.
